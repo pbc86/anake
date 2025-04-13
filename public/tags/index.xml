@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Fat Cau &amp; Skinny Pau</title>
-    <link>http://localhost:1313/anake/tags/</link>
+    <link>https://pbc86.github.io/anake/tags/</link>
     <description>Recent content in Tags on Fat Cau &amp; Skinny Pau</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/anake/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pbc86.github.io/anake/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
