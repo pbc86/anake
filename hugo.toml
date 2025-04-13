@@ -1,4 +1,8 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://pbc86.github.io/anake/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Fat Cau & Skinny Pau'
 theme = 'ananke'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
