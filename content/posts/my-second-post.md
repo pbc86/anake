@@ -12,5 +12,4 @@ This is my second post.
 2. Second item
 3. Third item
 
-> This is a quote
-
+> This is a quote.
