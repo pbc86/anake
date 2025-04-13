@@ -1,8 +1,0 @@
-baseURL = 'https://pbc86.github.io/anake/'
-languageCode = 'en-us'
-title = 'Fat Cau & Skinny Pau'
-theme = 'ananke'
-
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
