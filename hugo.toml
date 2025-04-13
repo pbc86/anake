@@ -1,0 +1,4 @@
+baseURL = 'https://pbc86.github.io/anake/'
+languageCode = 'en-us'
+title = 'Cau tries Ananke'
+theme = 'ananke'
