@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Cau tries Ananke</title>
-    <link>https://pbc86.github.io/anake/posts/</link>
+    <link>http://localhost:1313/anake/posts/</link>
     <description>Recent content in Posts on Cau tries Ananke</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Apr 2025 22:01:35 +0300</lastBuildDate>
-    <atom:link href="https://pbc86.github.io/anake/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/anake/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Fourth Post</title>
-      <link>https://pbc86.github.io/anake/posts/my-fourth-post/</link>
+      <link>http://localhost:1313/anake/posts/my-fourth-post/</link>
       <pubDate>Sun, 13 Apr 2025 22:01:35 +0300</pubDate>
-      <guid>https://pbc86.github.io/anake/posts/my-fourth-post/</guid>
+      <guid>http://localhost:1313/anake/posts/my-fourth-post/</guid>
       <description>&lt;h2 id=&#34;fourth-post&#34;&gt;Fourth post&lt;/h2&gt;&#xA;&lt;p&gt;Again, just a test.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My Third Post</title>
-      <link>https://pbc86.github.io/anake/posts/my-third-post/</link>
+      <link>http://localhost:1313/anake/posts/my-third-post/</link>
       <pubDate>Sun, 13 Apr 2025 21:59:42 +0300</pubDate>
-      <guid>https://pbc86.github.io/anake/posts/my-third-post/</guid>
+      <guid>http://localhost:1313/anake/posts/my-third-post/</guid>
       <description>&lt;h2 id=&#34;third-post&#34;&gt;Third post&lt;/h2&gt;&#xA;&lt;p&gt;Cau is a fat cat&lt;/p&gt;</description>
     </item>
     <item>
       <title>My Second Post</title>
-      <link>https://pbc86.github.io/anake/posts/my-second-post/</link>
+      <link>http://localhost:1313/anake/posts/my-second-post/</link>
       <pubDate>Sun, 13 Apr 2025 21:56:49 +0300</pubDate>
-      <guid>https://pbc86.github.io/anake/posts/my-second-post/</guid>
+      <guid>http://localhost:1313/anake/posts/my-second-post/</guid>
       <description>&lt;h2 id=&#34;second-post&#34;&gt;Second post&lt;/h2&gt;&#xA;&lt;p&gt;Nothing to see.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>https://pbc86.github.io/anake/posts/my-first-post/</link>
+      <link>http://localhost:1313/anake/posts/my-first-post/</link>
       <pubDate>Sun, 13 Apr 2025 21:43:21 +0300</pubDate>
-      <guid>https://pbc86.github.io/anake/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/anake/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;first-post&#34;&gt;First post&lt;/h2&gt;&#xA;&lt;p&gt;Nothing to see here&lt;/p&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
   </channel>
